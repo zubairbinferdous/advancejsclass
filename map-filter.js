@@ -6,4 +6,4 @@ for (let i = 0; i < numbers.length; i++) {
     const result = element * element;
     output.push(result);
 }
-console.log(output);
+console.log( 'the result is :' , output);
